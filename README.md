@@ -35,12 +35,6 @@ Examples of features:
 
 ---
 
-## 📉 ROC Curve
-
-*(Optional - Insert your ROC Curve image)*
-
----
-
 ## ✅ Results
 
 All models performed well, especially **XGBoost** with a high ROC-AUC score and accuracy.
